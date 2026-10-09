@@ -1,0 +1,12 @@
+{
+  "name": "Bitácora de Chayote V3",
+  "short_name": "Bitácora V3",
+  "description": "Bitácora agrícola para el cultivo de chayote",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f7f3",
+  "theme_color": "#176b3a",
+  "lang": "es-MX",
+  "icons": []
+}

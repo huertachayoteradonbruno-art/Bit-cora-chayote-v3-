@@ -1,0 +1,18 @@
+BITÁCORA DE CHAYOTE V3 — INSTALACIÓN DESDE ANDROID
+
+Archivos incluidos:
+- index.html: la aplicación
+- manifest.json: configuración para instalarla como app
+- sw.js: caché para abrirla con más facilidad
+
+La V3 empieza vacía y guarda los datos en el almacenamiento local del navegador. No sincroniza automáticamente entre teléfonos. La sección Respaldo exporta e importa un archivo JSON con registros y fotografías. No borres los datos del navegador sin una copia.
+
+PUBLICAR EN GITHUB PAGES:
+1. En el repositorio Bitacora-Chayote-V3, entra en Add file > Upload files.
+2. Extrae este ZIP en el teléfono y sube index.html, manifest.json y sw.js a la raíz del repositorio.
+3. En Settings > Pages, selecciona Deploy from a branch, rama main y carpeta /(root). Guarda.
+4. Espera el despliegue y abre el enlace que GitHub Pages muestre.
+5. En Chrome, menú ⋮ > Añadir a pantalla principal.
+
+PRUEBA ANTES DE USAR:
+Guarda un registro de prueba, revisa el historial, toma una foto y exporta una copia. Dictado y voz dependen de los permisos del micrófono y de las capacidades del navegador; si no funcionan, puedes escribir.
